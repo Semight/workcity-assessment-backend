@@ -27,10 +27,6 @@ src/
 ├── tests/ # Jest tests
 ├── index.ts # Entry point
 
-yaml
-Copy
-Edit
-
 ---
 
 ## Getting Started
